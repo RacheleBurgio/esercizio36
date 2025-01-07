@@ -2,12 +2,12 @@ import java.util.Arrays;
 
 public class Esercizio1 {
             public static void main(String[] args){
-                int a = 60;
-                int b =70;
+                int a = 25;
+                int b =20;
                 int result = multiply(a, b);
                 System.out.println(result);
 
-                System.out.println(concat("bla", 6));
+                System.out.println(concat("miau", 9));
 
                 String[] arr = insertIntoArray(new String[]{"l", "m", "b", "d", "o"}, "abcdefg");
 
